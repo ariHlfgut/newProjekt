@@ -1,0 +1,3 @@
+'gthtfgvt'
+'tgtgtg'
+vim newFile.txt
